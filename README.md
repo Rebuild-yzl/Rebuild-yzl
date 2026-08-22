@@ -1,16 +1,102 @@
-## Hi there 👋
-
 <!--
-**CarolDestiny/CarolDestiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Carol Destiny | GitHub Profile README
+  All local images use relative paths so this file can be moved into
+  the public profile repository without changing the asset references.
+  avator1 is the signed variant of avator2, so only one portrait is shown.
 -->
+
+<p align="center">
+  <img src="./banner.jpg" alt="Carol Destiny profile banner" width="100%" />
+</p>
+
+<table>
+  <tr>
+    <td width="68%" valign="top">
+      <h1>Hi, I'm Carol Destiny</h1>
+      <p><strong>Developer | Builder | INFJ</strong></p>
+      <p>
+        I enjoy working close to the metal, shaping practical tools,
+        and keeping interfaces calm and clear.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B%20%2F%20Qt%20%2F%20Go%20%2F%20Python-111827?style=flat-square" alt="C++ Qt Go Python" />
+        <img src="https://img.shields.io/badge/INFJ-b91c1c?style=flat-square" alt="INFJ" />
+      </p>
+      <p>
+        <a href="https://github.com/CarolDestiny">
+          <img src="https://img.shields.io/badge/GitHub-CarolDestiny-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
+        </a>
+        <a href="mailto:CarolDestinyLi@outlook.com">
+          <img src="https://img.shields.io/badge/Email-Contact-dc2626?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email Carol Destiny" />
+        </a>
+        <img src="https://komarev.com/ghpvc/?username=CarolDestiny&style=flat-square&color=dc2626&label=PROFILE+VIEWS" alt="Profile views" />
+      </p>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="./avator2.JPG" alt="Carol Destiny avatar" width="80%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/CarolDestiny?tab=repositories">Explore my repositories</a>
+</p>
+
+---
+
+## What I work with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,qt,go,python,html,git,github&perline=8" alt="C++, CMake, Qt, Go, Python, HTML, Git and GitHub" />
+</p>
+
+| Focus | Tools |
+| :--- | :--- |
+| Systems & networking | C++, libcurl, Win32 |
+| Desktop applications | Qt |
+| Services & scripting | Go, Python |
+| Collaboration & web | Git, GitHub, HTML |
+
+## GitHub, at a glance
+
+<!-- These cards are generated remotely and will populate when this README is published on GitHub. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CarolDestiny&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=ff6b78&text_color=c9d1d9&icon_color=67e8f9&border_radius=10" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CarolDestiny&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=fffafa&title_color=b91c1c&text_color=374151&icon_color=0891b2&border_radius=10" alt="CarolDestiny's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolDestiny&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff6b78&text_color=c9d1d9&icon_color=67e8f9&border_radius=10" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolDestiny&layout=compact&langs_count=8&hide_border=true&bg_color=fffafa&title_color=b91c1c&text_color=374151&icon_color=0891b2&border_radius=10" alt="CarolDestiny's top languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CarolDestiny&hide_border=true&border_radius=10&background=0d1117&ring=ff6b78&fire=f97316&currStreakLabel=ff6b78&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
+    <img width="70%" src="https://streak-stats.demolab.com?user=CarolDestiny&hide_border=true&border_radius=10&background=fffafa&ring=dc2626&fire=f97316&currStreakLabel=b91c1c&sideLabels=374151&currStreakNum=111827&sideNums=111827&dates=6b7280" alt="CarolDestiny's GitHub contribution streak" />
+  </picture>
+</p>
+
+## A little more about me
+
+<p><strong>Quietly curious, deliberately building.</strong></p>
+<p>
+  I like breaking complex problems into clear, manageable steps while leaving room for taste and ease beyond the code.
+</p>
+<ul>
+  <li><strong>Personality:</strong> INFJ</li>
+  <li><strong>Favorite treat:</strong> Osmanthus cake</li>
+  <li><strong>Contact:</strong> <a href="mailto:CarolDestinyLi@outlook.com">CarolDestinyLi@outlook.com</a></li>
+</ul>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./signature-dark.png" />
+    <img src="./signature-light.png" alt="May every beautiful journey find its graceful full stop." width="88%" />
+  </picture>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by. Have a thoughtful day.</sub>
+</p>
