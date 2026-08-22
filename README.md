@@ -13,11 +13,6 @@
   <tr>
     <td width="68%" valign="top">
       <h1>Hi, I'm Carol Destiny</h1>
-      <p><strong>Developer | Builder | INFJ</strong></p>
-      <p>
-        I enjoy working close to the metal, shaping practical tools,
-        and keeping interfaces calm and clear.
-      </p>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B%20%2F%20Qt%20%2F%20Go%20%2F%20Python-111827?style=flat-square" alt="C++ Qt Go Python" />
         <img src="https://img.shields.io/badge/INFJ-b91c1c?style=flat-square" alt="INFJ" />
@@ -80,10 +75,6 @@
 
 ## A little more about me
 
-<p><strong>Quietly curious, deliberately building.</strong></p>
-<p>
-  I like breaking complex problems into clear, manageable steps while leaving room for taste and ease beyond the code.
-</p>
 <ul>
   <li><strong>Personality:</strong> INFJ</li>
   <li><strong>Favorite treat:</strong> Osmanthus cake</li>
