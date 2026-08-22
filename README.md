@@ -18,10 +18,10 @@
         <img src="https://img.shields.io/badge/INFJ-b91c1c?style=flat-square" alt="INFJ" />
       </p>
       <p>
-        <a href="https://github.com/CarolDestiny">
+        <a href="https://github.com/CarolDestiny" style="text-decoration: none; display: inline-block;">
           <img src="https://img.shields.io/badge/GitHub-CarolDestiny-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
         </a>
-        <a href="mailto:CarolDestinyLi@outlook.com">
+        <a href="mailto:CarolDestinyLi@outlook.com" style="text-decoration: none; display: inline-block;">
           <img src="https://img.shields.io/badge/Email-Contact-dc2626?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email Carol Destiny" />
         </a>
         <img src="https://komarev.com/ghpvc/?username=CarolDestiny&style=flat-square&color=dc2626&label=PROFILE+VIEWS" alt="Profile views" />
