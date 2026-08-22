@@ -54,23 +54,15 @@
 
 ## GitHub, at a glance
 
-<!-- These cards are generated remotely and will populate when this README is published on GitHub. -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=CarolDestiny&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d1117&title_color=ff6b78&text_color=c9d1d9&icon_color=67e8f9&border_radius=10" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CarolDestiny&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=fffafa&title_color=b91c1c&text_color=374151&icon_color=0891b2&border_radius=10" alt="CarolDestiny's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolDestiny&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ff6b78&text_color=c9d1d9&icon_color=67e8f9&border_radius=10" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolDestiny&layout=compact&langs_count=8&hide_border=true&bg_color=fffafa&title_color=b91c1c&text_color=374151&icon_color=0891b2&border_radius=10" alt="CarolDestiny's top languages" />
-  </picture>
-</p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=CarolDestiny&hide_border=true&border_radius=10&background=0d1117&ring=ff6b78&fire=f97316&currStreakLabel=ff6b78&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
     <img width="70%" src="https://streak-stats.demolab.com?user=CarolDestiny&hide_border=true&border_radius=10&background=fffafa&ring=dc2626&fire=f97316&currStreakLabel=b91c1c&sideLabels=374151&currStreakNum=111827&sideNums=111827&dates=6b7280" alt="CarolDestiny's GitHub contribution streak" />
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CarolDestiny?tab=overview">View live contribution activity on GitHub</a>
 </p>
 
 ## A little more about me
