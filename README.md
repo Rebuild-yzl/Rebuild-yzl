@@ -42,7 +42,7 @@
 ## What I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,gdscript,python,html,git,github,Godot&perline=8" alt="C++, CMake, GDScript, Python, HTML, Git and GitHub, Godot" />
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,godot,python,html,git,github,Godot&perline=8" alt="C++, CMake, GDScript, Python, HTML, Git and GitHub, Godot" />
 </p>
 
 | Focus | Tools |
