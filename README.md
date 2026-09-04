@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td width="68%" valign="top">
-      <h1>Hi, I'm Carol Destiny</h1>
+      <h1>Hi, I'm NeuroSaiKou</h1>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B%20%2F%20GDScript%20%2F%20Go%20%2F%20Python-111827?style=flat-square" alt="C++ Qt GDScript Python" />
         <img src="https://img.shields.io/badge/INFJ-b91c1c?style=flat-square" alt="INFJ" />
@@ -42,7 +42,7 @@
 ## What I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,GDScript,python,html,git,github,Godot&perline=8" alt="C++, CMake, GDScript, Python, HTML, Git and GitHub, Godot" />
+  <img src="https://skillicons.dev/icons?i=cpp,cmake,gdscript,python,html,git,github,Godot&perline=8" alt="C++, CMake, GDScript, Python, HTML, Git and GitHub, Godot" />
 </p>
 
 | Focus | Tools |
