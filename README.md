@@ -65,21 +65,6 @@
   <a href="https://github.com/Rebuild-yzl?tab=overview">View live contribution activity on GitHub</a>
 </p>
 
-## A little more about me
-
-<ul>
-  <li><strong>Personality:</strong> INFJ</li>
-  <li><strong>Favorite treat:</strong> Osmanthus cake</li>
-  <li><strong>Contact:</strong> <a href="mailto:CarolDestinyLi@outlook.com">CarolDestinyLi@outlook.com</a></li>
-</ul>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./signature-dark.png" />
-    <img src="./signature-light.png" alt="May every beautiful journey find its graceful full stop." width="88%" />
-  </picture>
-</p>
-
 <p align="center">
   <sub>Thanks for stopping by. Have a thoughtful day.</sub>
 </p>
