@@ -1,12 +1,12 @@
 <!--
-  Carol Destiny | GitHub Profile README
+  NeuroSaiKou | GitHub Profile README
   All local images use relative paths so this file can be moved into
   the public profile repository without changing the asset references.
   avator1 is the signed variant of avator2, so only one portrait is shown.
 -->
 
 <p align="center">
-  <img src="./banner.jpg" alt="Carol Destiny profile banner" width="100%" />
+  <img src="./banner.jpg" alt="NeuroSaiKou profile banner" width="100%" />
 </p>
 
 <table>
@@ -14,7 +14,7 @@
     <td width="68%" valign="top">
       <h1>Hi, I'm NeuroSaiKou</h1>
       <p>
-        <img src="https://img.shields.io/badge/C%2B%2B%20%2F%20GDScript%20%2F%20Go%20%2F%20Python-111827?style=flat-square" alt="C++ Qt GDScript Python" />
+        <img src="https://img.shields.io/badge/C%2B%2B%20%2F%20GDScript%20%2F%20Python-111827?style=flat-square" alt="C++ GDScript Python" />
         <img src="https://img.shields.io/badge/INFJ-b91c1c?style=flat-square" alt="INFJ" />
       </p>
       <p>
